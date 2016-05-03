@@ -1,1 +1,1 @@
-require("./build/server/app");
+require("./build/server/netApp");
